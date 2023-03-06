@@ -1,0 +1,74 @@
+h2{
+    text-align: center;
+}
+.form_login{
+   
+    text-align: center;
+    position: relative;
+    text-align: center;
+    display: inline-block;
+    background-image: url("./blur.jpg");
+    background-repeat: no-repeat;
+    background-size: fit-content fit-content;
+    border-color: #FF0000 #00FF00 #0000FF #000000;
+    margin-top: 20px;
+}
+.form_login{
+    float: right;
+    border-radius: 10px;
+}
+@media (max-width:600px){
+    form{
+        background-image: url("./blur.jpg");
+        position: relative;
+        text-align: center;
+        display: inline-block;
+    }
+    .form_login button{
+        width: 50%;
+        text-align: center;
+        padding:15px;
+        margin:15px;
+        margin-left: 30px !important;
+        background-color: blueviolet;
+        font-weight: bold;
+        border-radius: 10px;
+        padding:100px;
+    }
+    .butt1{
+        margin-top: 40px !important;
+    }
+    
+}
+
+.butt1{
+    margin-top: 40px !important;
+    width: 60%;
+    text-align: center;
+    padding:15px;
+    margin:20px;
+    margin-left: 50px;
+    color: white;
+    font-size: 15px;
+    background-color: blueviolet;
+    font-weight: bold;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+.butt2{
+    margin-bottom: 40px !important;
+    width: 60%;
+    text-align: center;
+    padding:15px;
+    margin:20px;
+    margin-left: 50px;
+    color: white;
+    font-size: 15px;
+    background-color: blueviolet;
+    font-weight: bold;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+
+

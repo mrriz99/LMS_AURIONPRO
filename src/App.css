@@ -1,0 +1,32 @@
+
+.Apps {
+  text-align: center;
+}
+.welcome{
+  text-align: center;
+  background-color: #3fff;
+  margin: 0px;
+  font-size: 50px;
+}
+.image_aurion{
+  height:400px;
+  width: 500px;
+  margin: 60px;
+  float: left;
+}
+
+@media(max-width:600px){
+  .welcome{
+    text-align: center;
+    background-color: #3fff;
+    margin-top: 0px;
+    font-size: 40px;
+  }
+  .image_aurion{
+    width: 250px;
+    height: 150px;
+  
+  }
+}
+
+
